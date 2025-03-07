@@ -3,5 +3,5 @@ package vorobev.basic.tasks
  *  где вместо пропуска подставляется значение Sample Input */
 fun main() {
     val dontReadMessage = readln()
-    println("У вас "+ dontReadMessage +" непрочитанных сообщений")
+    println("У вас $dontReadMessage непрочитанных сообщений")
 }

@@ -13,6 +13,6 @@ fun main() {
     println("Input your height:")
     val height = readln()
 
-    println("Your name: " + name + ",\n your age: " + age + ",\n your gender: " + gender + ",\n your height: " + height)
+    println("Your name: $name,\n your age: $age,\n your gender: $gender,\n your height: $height")
 
 }
